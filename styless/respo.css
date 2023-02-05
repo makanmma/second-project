@@ -1,0 +1,68 @@
+@media screen and (max-width: 992px) {
+    .d {
+        font-size: 250%;
+    }
+    .c {
+        display: none;
+    }
+    .f {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+     }
+     .g {
+        display: block;
+     }
+
+     .g>div {
+        width: 100%;
+     }
+
+     .container {
+        width: 90%;
+     }
+
+    .ha {
+        display: block;
+     }
+
+     .had::after {
+        border-color: transparent white white transparent;
+        top: -1.8rem;
+        right: 80%;
+     }
+     .i {
+        display: block;
+     }
+
+     .i>div {
+        width: 100%;
+     }
+
+     .ja {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+
+     }
+    
+
+     }
+ 
+     @media screen and (min-width: 992px) {
+        .c {
+            display: block;
+        }
+        .bar {
+            display: none;
+        }
+        
+     }
+    
+
+    
+
