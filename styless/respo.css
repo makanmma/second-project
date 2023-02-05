@@ -31,6 +31,10 @@
      .had::after {
         border-color: transparent white white transparent;
         top: -1.8rem;
+        right: 100%;
+     }
+
+     .had::before {
         right: 80%;
      }
      .i {
